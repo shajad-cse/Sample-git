@@ -16,7 +16,7 @@ public class Main {
 
     public void MergeChanges(int anInt, String s) {
 
-        this.anInt = anInt + 1;
+        this.anInt = anInt + 10;
 
     }
 }
