@@ -1,5 +1,7 @@
 public class Main {
 
+
+    private int anInt;
     public static void main(String[] args) {
 
         //TODO THE CODE
@@ -9,6 +11,12 @@ public class Main {
     }
 
     private static void m1() {
+
+    }
+
+    public void MergeChanges(int anInt, String s) {
+
+        this.anInt = anInt + 2;
 
     }
 }
